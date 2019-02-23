@@ -2,7 +2,9 @@
 -------
 Funcionamento do programa:
 * Copie o horário direto da aba principal do SIGAA.
+
 <img width = "70%" src = "/util/print_sigaa.png">
+
 * Sobreescreva o que foi copiado no arquivo `data/subjects.txt`.
 * Execute o script `script.sh`:
     ```bash
