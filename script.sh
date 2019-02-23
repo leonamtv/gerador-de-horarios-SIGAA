@@ -16,6 +16,6 @@ cd python
 if [ $# -ne 0 ]
     then
     {
-        python3 send_telegram $1
+        python3 send_telegram.py $1
     }&>/dev/null
 fi
