@@ -1,0 +1,50 @@
+* {
+    margin      : 0;
+    padding     : 0;
+    font-family : 'Montserrat';
+    font-weight : normal;
+    color       :white;
+}
+
+body {
+    padding-top :1%;
+    background  : linear-gradient(to right, #363795, #005C97);
+}
+
+table {
+    border          : 1px solid rgba(255, 255, 255, 0.164);
+    width           : 80%;
+    margin          : auto;
+    margin-top      : 1%;
+    margin-bottom   : 1%;
+}
+
+
+td, th {
+    border      : 0.25px solid rgba(255, 255, 255, 0.164);
+    text-align  : center;
+    width       : 3%;
+    padding     : 0.5% 1%;
+}
+
+th {
+    background-color    : rgba(255, 255, 255, 0.164);
+}
+
+.aviso {
+    padding-bottom  : 1%;
+    font-size       : 0.8em;
+}
+
+.content-div {
+    text-align  : center;
+}
+
+.horario_a {
+    background-color    : rgba(255, 255, 255, 0.061);
+}
+
+.horario_b {
+    background-color    : rgba(255, 255, 255, 0.13);
+}
+

@@ -1,0 +1,114 @@
+.c2M1:after {
+   content: 'BDI';
+}
+.c2M2:after {
+   content: 'BDI';
+}
+.c4M1:after {
+   content: 'BDI';
+}
+.c4M2:after {
+   content: 'BDI';
+}
+.c3T3:after {
+   content: 'LBDI';
+}
+.c3T4:after {
+   content: 'LBDI';
+}
+.c4N1:after {
+   content: 'LMM';
+}
+.c4N2:after {
+   content: 'LMM';
+}
+.c2M5:after {
+   content: 'LMDS';
+}
+.c2M6:after {
+   content: 'LMDS';
+}
+.c2M3:after {
+   content: 'LFA';
+}
+.c2M4:after {
+   content: 'LFA';
+}
+.c5M3:after {
+   content: 'LFA';
+}
+.c5M4:after {
+   content: 'LFA';
+}
+.c3N1:after {
+   content: 'MM';
+}
+.c3N2:after {
+   content: 'MM';
+}
+.c5N1:after {
+   content: 'MM';
+}
+.c5N2:after {
+   content: 'MM';
+}
+.c3M5:after {
+   content: 'MDS';
+}
+.c3M6:after {
+   content: 'MDS';
+}
+.c4M3:after {
+   content: 'MDS';
+}
+.c4M4:after {
+   content: 'MDS';
+}
+.c3M3:after {
+   content: 'PCD';
+}
+.c3M4:after {
+   content: 'PCD';
+}
+.c5M1:after {
+   content: 'PCD';
+}
+.c5M2:after {
+   content: 'PCD';
+}
+.c5M5:after {
+   content: 'C';
+}
+.c5M6:after {
+   content: 'C';
+}
+.c3T1:after {
+   content: 'C';
+}
+.c3T2:after {
+   content: 'C';
+}
+.c6M5:after {
+   content: 'PC';
+}
+.c6M6:after {
+   content: 'PC';
+}
+.c5T1:after {
+   content: 'PC';
+}
+.c5T2:after {
+   content: 'PC';
+}
+.c4M5:after {
+   content: 'PW';
+}
+.c4M6:after {
+   content: 'PW';
+}
+.c6M3:after {
+   content: 'PW';
+}
+.c6M4:after {
+   content: 'PW';
+}
