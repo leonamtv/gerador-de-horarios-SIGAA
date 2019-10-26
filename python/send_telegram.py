@@ -1,10 +1,17 @@
 import telepot
 import sys
 
-bot = telepot.Bot("779550705:AAHT9jIqE4zF839tAnNZLYWH9UgRubw31dM")
+token = ""
 
-cid = int(sys.argv[1])
+if token != "" : 
 
-log = bot.sendDocument(-cid, open('../img/horario.png', 'rb'), "Horário: Enviado via bot")
+    bot = telepot.Bot(token)
 
-print(log)
+    cid = int(sys.argv[1])
+
+    log = bot.sendDocument(-cid, open('../img/horario.png', 'rb'), "Horário: Enviado via bot")
+
+    print(log)
+
+else :
+    print('token do telegram vazio').
