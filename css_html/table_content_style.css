@@ -1,114 +1,66 @@
-.c2M1:after {
-   content: 'BDI';
+.c4T5:after {
+   content: 'COMPI';
 }
-.c2M2:after {
-   content: 'BDI';
+.c4T6:after {
+   content: 'COMPI';
 }
-.c4M1:after {
-   content: 'BDI';
+.c5T5:after {
+   content: 'COMPI';
 }
-.c4M2:after {
-   content: 'BDI';
+.c5T6:after {
+   content: 'COMPI';
 }
-.c3T3:after {
-   content: 'LBDI';
+.c2T3:after {
+   content: 'CDSD';
 }
-.c3T4:after {
-   content: 'LBDI';
+.c2T4:after {
+   content: 'CDSD';
 }
-.c4N1:after {
-   content: 'LMM';
+.c5T3:after {
+   content: 'CDSD';
 }
-.c4N2:after {
-   content: 'LMM';
+.c5T4:after {
+   content: 'CDSD';
 }
-.c2M5:after {
-   content: 'LMDS';
+.c2T1:after {
+   content: 'IA';
 }
-.c2M6:after {
-   content: 'LMDS';
-}
-.c2M3:after {
-   content: 'LFA';
-}
-.c2M4:after {
-   content: 'LFA';
-}
-.c5M3:after {
-   content: 'LFA';
-}
-.c5M4:after {
-   content: 'LFA';
-}
-.c3N1:after {
-   content: 'MM';
-}
-.c3N2:after {
-   content: 'MM';
-}
-.c5N1:after {
-   content: 'MM';
-}
-.c5N2:after {
-   content: 'MM';
-}
-.c3M5:after {
-   content: 'MDS';
-}
-.c3M6:after {
-   content: 'MDS';
-}
-.c4M3:after {
-   content: 'MDS';
-}
-.c4M4:after {
-   content: 'MDS';
-}
-.c3M3:after {
-   content: 'PCD';
-}
-.c3M4:after {
-   content: 'PCD';
-}
-.c5M1:after {
-   content: 'PCD';
-}
-.c5M2:after {
-   content: 'PCD';
-}
-.c5M5:after {
-   content: 'C';
-}
-.c5M6:after {
-   content: 'C';
-}
-.c3T1:after {
-   content: 'C';
-}
-.c3T2:after {
-   content: 'C';
-}
-.c6M5:after {
-   content: 'PC';
-}
-.c6M6:after {
-   content: 'PC';
+.c2T2:after {
+   content: 'IA';
 }
 .c5T1:after {
-   content: 'PC';
+   content: 'IA';
 }
 .c5T2:after {
-   content: 'PC';
+   content: 'IA';
 }
-.c4M5:after {
-   content: 'PW';
+.c3T3:after {
+   content: 'LCDSD';
 }
-.c4M6:after {
-   content: 'PW';
+.c3T4:after {
+   content: 'LCDSD';
 }
-.c6M3:after {
-   content: 'PW';
+.c3T1:after {
+   content: 'LIA';
 }
-.c6M4:after {
-   content: 'PW';
+.c3T2:after {
+   content: 'LIA';
+}
+.c4T1:after {
+   content: 'OTIM I';
+}
+.c4T2:after {
+   content: 'OTIM I';
+}
+.c6T3:after {
+   content: 'OTIM I';
+}
+.c6T4:after {
+   content: 'OTIM I';
+}
+.c4T3:after {
+   content: 'PAÀO';
+}
+.c4T4:after {
+   content: 'PAÀO';
 }
